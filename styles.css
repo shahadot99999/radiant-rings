@@ -248,6 +248,7 @@ body {
 .content p {
   font-size: 1rem;
   margin-bottom: 15px;
+  color: rgb(68, 248, 13);
 }
 
 .content button {

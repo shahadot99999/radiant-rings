@@ -292,4 +292,67 @@ body {
   }
 }
 /* Find vendors for every vibe end */
+
+/* Build your vendor team start */
+body {
+  font-family: Arial, sans-serif;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.container {
+  width: 90%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.col {
+  flex: 1;
+  margin: 5px;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 150px;
+  border-radius: 8px;
+}
+
+h4 {
+  margin: 0;
+}
+
+/* Default: 3 columns on large screens */
+@media (min-width: 1024px) {
+  .col {
+      flex: 0 0 calc(33.33% - 10px); /* 3 columns per row */
+  }
+}
+
+/* Tablets: 2 columns on medium screens */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .col {
+      flex: 0 0 calc(50% - 10px); /* 2 columns per row */
+  }
+}
+
+/* Mobile: 1 column on small screens */
+@media (max-width: 767px) {
+  .col {
+      flex: 0 0 calc(100% - 10px); /* 1 column per row */
+  }
+}
+/* Build your vendor team End */
+
+/* We’ll walk you through start */
+
+/* We’ll walk you through end */
   

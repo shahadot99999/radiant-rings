@@ -33,6 +33,7 @@ The footer is fully responsive and adjusts seamlessly across different device wi
 
 
 live link:
+https://radiant-rings.netlify.app/
 
 git link:
 https://github.com/shahadot99999/radiant-rings

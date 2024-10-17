@@ -40,8 +40,13 @@ https://github.com/shahadot99999/radiant-rings
 
 
 Technologies Used
-HTML5: For structuring the content.
-CSS3: For styling the page, including the grid layout, image overlays, card designs, and responsiveness.
+
+HTML5: 
+For structuring the content.
+
+CSS3:
+ For styling the page, including the grid layout, image overlays, card designs, and responsiveness.
+
 Font Awesome: For the inclusion of icons in the navigation bars and footer.
 
 
